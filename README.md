@@ -1,38 +1,51 @@
-# Deep Saha
+<div align="center">
 
-Cybersecurity Student | Aspiring Ethical Hacker | Security Research Enthusiast
+<h1>Hi 👋, I'm Deep Saha</h1>
 
-Passionate about offensive and defensive security, threat detection, network security, and security automation. Building practical cybersecurity projects while continuously developing skills in penetration testing, vulnerability assessment, and incident response.
+<h3>Cybersecurity Student | Aspiring Ethical Hacker | Security Research Enthusiast</h3>
 
-## Core Areas
+<p>
+Exploring vulnerabilities, strengthening defenses, and building practical cybersecurity solutions.
+</p>
 
-* Ethical Hacking
-* Penetration Testing
-* Network Security
-* Security Operations (SOC)
-* Threat Detection & Analysis
-* OSINT
-* Vulnerability Assessment
-* Python Automation
-* Linux Administration
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Ethical+Hacker;Offensive+%26+Defensive+Security;Python+Developer;Security+Research+Enthusiast;Always+Learning+Something+New" />
 
-## Technical Skills
+</div>
 
-Python | Linux | Git | Wireshark | Nmap | Burp Suite | SQL | Networking Fundamentals
+---
 
-## Featured Projects
+<h2>🔐 About Me</h2>
 
-* Zephyrix – OSINT & Vulnerability Assessment Platform
-* ALICE – Intelligent IDS/IPS and Network Monitoring System
-* VaultSec – File Encryption and Security Utility
+<ul>
+<li>🎓 BCA Graduate with a strong interest in Cybersecurity</li>
+<li>🛡️ Learning Penetration Testing and Security Engineering</li>
+<li>🐍 Building security tools using Python</li>
+<li>🌐 Interested in Web Security, OSINT, and Threat Detection</li>
+<li>🐧 Linux and Open-Source Enthusiast</li>
+</ul>
 
-## Currently Learning
+<h2>⚡ Technical Skills</h2>
 
-* Advanced Web Application Security
-* Threat Hunting
-* Detection Engineering
-* Cloud Security
+<p>
+Python • Linux • Git • Nmap • Wireshark • Burp Suite • SQL • Networking
+</p>
 
-## Career Objective
+<h2>🚀 Featured Projects</h2>
 
-Aspiring cybersecurity professional seeking opportunities to apply technical knowledge, develop practical security solutions, and contribute to securing modern digital environments.
+<ul>
+<li><b>Zephyrix</b> — OSINT & Vulnerability Assessment Platform</li>
+<li><b>ALICE</b> — Intelligent IDS/IPS System</li>
+<li><b>VaultSec</b> — Encryption & Security Utility</li>
+</ul>
+
+<h2>🎯 Current Focus</h2>
+
+<p>
+Penetration Testing • Threat Hunting • Security Automation • Detection Engineering
+</p>
+
+<div align="center">
+
+<h3>"Learn. Build. Secure."</h3>
+
+</div>
