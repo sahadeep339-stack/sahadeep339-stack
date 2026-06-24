@@ -1,51 +1,65 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Deep Saha</h1>
+# Deep Saha
 
-<h3>Cybersecurity Student | Aspiring Ethical Hacker | Security Research Enthusiast</h3>
+### Cybersecurity Student | Ethical Hacking | Offensive Security | Threat Detection & Defense
 
-<p>
-Exploring vulnerabilities, strengthening defenses, and building practical cybersecurity solutions.
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Ethical+Hacker;Offensive+%26+Defensive+Security;Python+Developer;Security+Research+Enthusiast;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Exploring+Vulnerabilities;Understanding+Attacker+Mindsets;Building+Defensive+Capabilities;Security+Research+and+Continuous+Learning;Turning+Curiosity+Into+Capability" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<h2>🔐 About Me</h2>
+## About Me
 
-<ul>
-<li>🎓 BCA Graduate with a strong interest in Cybersecurity</li>
-<li>🛡️ Learning Penetration Testing and Security Engineering</li>
-<li>🐍 Building security tools using Python</li>
-<li>🌐 Interested in Web Security, OSINT, and Threat Detection</li>
-<li>🐧 Linux and Open-Source Enthusiast</li>
-</ul>
+I am a cybersecurity student focused on understanding how modern systems are attacked, defended, and secured. My interests span ethical hacking, offensive security, threat detection, and security research. Through continuous learning and hands-on experimentation, I aim to strengthen my technical foundation while developing practical cybersecurity solutions.
 
-<h2>⚡ Technical Skills</h2>
+---
 
-<p>
+## Areas of Interest
+
+⚔️ Offensive Security
+
+🛡️ Threat Detection & Defense
+
+🔍 Security Research
+
+🌐 Web Security
+
+🐍 Python Development
+
+🐧 Linux Systems
+
+📡 Network Security
+
+---
+
+## Current Focus
+
+* Studying ethical hacking methodologies and security fundamentals
+* Understanding attacker techniques and defensive strategies
+* Developing cybersecurity-focused projects
+* Improving practical skills in security analysis and system hardening
+* Expanding knowledge through research and hands-on learning
+
+---
+
+## Technologies & Tools
+
 Python • Linux • Git • Nmap • Wireshark • Burp Suite • SQL • Networking
-</p>
 
-<h2>🚀 Featured Projects</h2>
+---
 
-<ul>
-<li><b>Zephyrix</b> — OSINT & Vulnerability Assessment Platform</li>
-<li><b>ALICE</b> — Intelligent IDS/IPS System</li>
-<li><b>VaultSec</b> — Encryption & Security Utility</li>
-</ul>
+## Philosophy
 
-<h2>🎯 Current Focus</h2>
+> Security is not a destination achieved through a single certification or tool.
+>
+> It is a continuous process of learning, questioning, adapting, and improving.
 
-<p>
-Penetration Testing • Threat Hunting • Security Automation • Detection Engineering
-</p>
+---
 
 <div align="center">
 
-<h3>"Learn. Build. Secure."</h3>
+### Learning • Researching • Building • Improving
 
 </div>
