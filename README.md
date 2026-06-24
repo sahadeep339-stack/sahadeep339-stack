@@ -1,16 +1,38 @@
-## Hi there 👋
+# Deep Saha
 
-<!--
-**sahadeep339-stack/sahadeep339-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Student | Aspiring Ethical Hacker | Security Research Enthusiast
 
-Here are some ideas to get you started:
+Passionate about offensive and defensive security, threat detection, network security, and security automation. Building practical cybersecurity projects while continuously developing skills in penetration testing, vulnerability assessment, and incident response.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Areas
+
+* Ethical Hacking
+* Penetration Testing
+* Network Security
+* Security Operations (SOC)
+* Threat Detection & Analysis
+* OSINT
+* Vulnerability Assessment
+* Python Automation
+* Linux Administration
+
+## Technical Skills
+
+Python | Linux | Git | Wireshark | Nmap | Burp Suite | SQL | Networking Fundamentals
+
+## Featured Projects
+
+* Zephyrix – OSINT & Vulnerability Assessment Platform
+* ALICE – Intelligent IDS/IPS and Network Monitoring System
+* VaultSec – File Encryption and Security Utility
+
+## Currently Learning
+
+* Advanced Web Application Security
+* Threat Hunting
+* Detection Engineering
+* Cloud Security
+
+## Career Objective
+
+Aspiring cybersecurity professional seeking opportunities to apply technical knowledge, develop practical security solutions, and contribute to securing modern digital environments.
