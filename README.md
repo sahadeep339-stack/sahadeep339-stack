@@ -46,7 +46,8 @@ I am a cybersecurity student focused on understanding how modern systems are att
 
 ## Technologies & Tools
 
-Python • Linux • Git • Nmap • Wireshark • Burp Suite • SQL • Networking
+Python • Linux • Git • Nmap • Wireshark • Burp Suite • SQL • Networking • HTML • CSS <br>
+• JS • Snort 
 
 ---
 
