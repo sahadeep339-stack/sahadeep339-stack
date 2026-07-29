@@ -62,14 +62,14 @@ practical, real-world cybersecurity solutions.
 ![Python](https://img.shields.io/badge/Python-1b263b?style=for-the-badge&logo=python&logoColor=00b4d8)
 ![Linux](https://img.shields.io/badge/Linux-1b263b?style=for-the-badge&logo=linux&logoColor=00b4d8)
 ![Git](https://img.shields.io/badge/Git-1b263b?style=for-the-badge&logo=git&logoColor=00b4d8)
-![Nmap](https://img.shields.io/badge/Nmap-1b263b?style=for-the-badge&logo=nmap&logoColor=00b4d8)
+![Nmap](https://img.shields.io/badge/Nmap-1b263b?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1b263b?style=for-the-badge&logo=wireshark&logoColor=00b4d8)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-1b263b?style=for-the-badge&logo=burpsuite&logoColor=00b4d8)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-1b263b?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-1b263b?style=for-the-badge&logo=postgresql&logoColor=00b4d8)
 ![HTML5](https://img.shields.io/badge/HTML5-1b263b?style=for-the-badge&logo=html5&logoColor=00b4d8)
 ![CSS3](https://img.shields.io/badge/CSS3-1b263b?style=for-the-badge&logo=css3&logoColor=00b4d8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1b263b?style=for-the-badge&logo=javascript&logoColor=00b4d8)
-![Snort](https://img.shields.io/badge/Snort-1b263b?style=for-the-badge&logo=snort&logoColor=00b4d8)
+![Snort](https://img.shields.io/badge/Snort-1b263b?style=for-the-badge)
 
 </div>
 
@@ -79,7 +79,7 @@ practical, real-world cybersecurity solutions.
 
 <div align="center">
 
-![CJWAPT](https://img.shields.io/badge/CJWAPT-Certified%20Junior%20Web%20App%20Pentester-1b263b?style=for-the-badge&logo=hackthebox&logoColor=00b4d8)
+![CJWAPT](https://img.shields.io/badge/CJWAPT-Certified%20Junior%20Web%20App%20Pentester-1b263b?style=for-the-badge)
 
 </div>
 
@@ -87,20 +87,7 @@ practical, real-world cybersecurity solutions.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sahadeep339-stack&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahadeep339-stack&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" width="35%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahadeep339-stack&theme=dark&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" width="60%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake (Automated)
+## 🐍 GitHub Activity (Live, Auto-Fetched)
 
 <div align="center">
 
@@ -108,8 +95,10 @@ practical, real-world cybersecurity solutions.
 
 </div>
 
-This animation is **auto-generated and refreshed daily** by a GitHub Action (see [Automation](#-automation) below) —
-no manual updates required.
+This isn't a static image or hardcoded data — it's generated fresh every day by a GitHub Action that pulls my
+**actual live contribution graph** straight from GitHub and re-renders it as this animation (see
+[Automation](#-automation) below). Whatever shows here is exactly what's currently on my GitHub profile — nothing
+typed in by hand.
 
 ---
 
@@ -119,8 +108,7 @@ This profile is self-maintaining. The following GitHub Actions keep it up to dat
 
 | Workflow | Schedule | What it does |
 |---|---|---|
-| 🐍 `snake.yml` | Daily (`cron: 0 0 * * *`) | Regenerates the contribution snake animation from live contribution data |
-| 📊 `stats-refresh.yml` | Daily | Forces stat/streak cards to re-cache so they reflect current activity |
+| 🐍 `snake.yml` | Daily (`cron: 0 0 * * *`) | Pulls my live GitHub contribution data and regenerates the snake animation above — no manual input |
 | 🔒 `dependabot` | Weekly | Flags outdated dependencies across public repos |
 
 
