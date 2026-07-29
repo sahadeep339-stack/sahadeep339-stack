@@ -123,48 +123,7 @@ This profile is self-maintaining. The following GitHub Actions keep it up to dat
 | 📊 `stats-refresh.yml` | Daily | Forces stat/streak cards to re-cache so they reflect current activity |
 | 🔒 `dependabot` | Weekly | Flags outdated dependencies across public repos |
 
-To enable the snake animation, add this workflow to `.github/workflows/snake.yml` in your `<username>/<username>`
-repository:
 
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"     # runs daily at midnight UTC
-  workflow_dispatch:         # allows manual trigger from the Actions tab
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
-
-      - name: Push output to "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Once merged, the Action runs on its own schedule — the snake graphic and stats above update without any manual
-edits to this README.
-
----
 
 ## 💭 Philosophy
 
