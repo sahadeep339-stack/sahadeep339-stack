@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:00b4d8&height=200&section=header&text=Deep%20Saha&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20Student%20%7C%20Ethical%20Hacking%20%7C%20Offensive%20Security%20%7C%20Threat%20Detection%20%26%20Defense&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:00b4d8&height=200&section=header&text=Deep%20Saha&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20Student%20%7C%20Ethical%20Hacking%20%7C%20Offensive%20Security%20%7C%20Threat%20Detection%20and%20Defense&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=900&lines=Exploring+Vulnerabilities;Understanding+Attacker+Mindsets;Building+Defensive+Capabilities;Security+Research+and+Continuous+Learning;Turning+Curiosity+Into+Capability" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=900&lines=Exploring+Vulnerabilities;Understanding+Attacker+Mindsets;Building+Defensive+Capabilities;Security+Research+and+Continuous+Learning;Turning+Curiosity+Into+Capability" alt="Typing SVG" />
 
 <br/>
 
@@ -110,6 +110,7 @@ This profile is self-maintaining. The following GitHub Actions keep it up to dat
 |---|---|---|
 | 🐍 `snake.yml` | Daily (`cron: 0 0 * * *`) | Pulls my live GitHub contribution data and regenerates the snake animation above — no manual input |
 | 🔒 `dependabot` | Weekly | Flags outdated dependencies across public repos |
+
 
 
 ## 💭 Philosophy
