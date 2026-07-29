@@ -112,7 +112,6 @@ This profile is self-maintaining. The following GitHub Actions keep it up to dat
 | 🔒 `dependabot` | Weekly | Flags outdated dependencies across public repos |
 
 
-
 ## 💭 Philosophy
 
 > Security is not a destination achieved through a single certification or tool.
