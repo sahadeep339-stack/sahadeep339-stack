@@ -14,13 +14,7 @@
 
 <br/>
 
-```
-┌──────────────────────────────────────────────────────────┐
-│  root@sahadeep339-stack:~$ whoami                        │
-│  > Cybersecurity student. Breaker of things (with        │
-│    permission). Builder of defenses. Perpetual learner.  │
-└──────────────────────────────────────────────────────────┘
-```
+
 
 ## 📖 About Me
 
